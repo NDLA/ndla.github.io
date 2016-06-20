@@ -1,6 +1,6 @@
 {
   "name": "ndla.gitHub.io",
   "tagline": "",
-  "body": "### Welcome to NDLA on GitHub\r\nThis is a holding page for NDLA.\r\n\r\n**[Ny lenke](testndla.html).** ",
+  "body": "### Welcome to NDLA on GitHub\r\nThis is a holding page for NDLA.\r\n\r\n**[Ny lenke](testndla.html).** \r\n\r\n*[Ny lenke](nytest.html).*\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
